@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Certification Study Notes](README.md)
+
 ## RedHat
 
-* [Page 3](README.md)
+* [RHCSA](redhat/rhcsa.md)
 
 ## CyberWarFareLabs
 
@@ -10,12 +12,11 @@
 
 ## Cisco
 
-* [Page 1](cisco/page-1.md)
+* [CCNA](cisco/ccna.md)
 
 ## HackTheBox
 
 * [CJCA](hackthebox/cjca/README.md)
-  * [Introduction](hackthebox/cjca/introduction.md)
   * [Networking Fundamentals](hackthebox/cjca/networking-fundamentals/README.md)
     * [Networking Foundations](hackthebox/cjca/networking-fundamentals/networking-foundations.md)
     * [Network Communication and Addressing](hackthebox/cjca/networking-fundamentals/network-communication-and-addressing.md)

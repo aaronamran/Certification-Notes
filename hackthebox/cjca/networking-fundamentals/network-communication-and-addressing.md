@@ -6,6 +6,8 @@ icon: '2'
 
 ### MAC Addresses
 
+#### What is a MAC Address?
+
 * A unique identifier assigned to a device's NIC to allow the device to be recognised on the local network
 * OSI model: Data link layer (layer 2)
 * Ensures data reaches the correct physical device
@@ -16,4 +18,8 @@ icon: '2'
     ```
     getmac
     ```
+
+#### How MAC Addresses are Used
+
+* Used to deliver data frames to the correct physical device
 *
